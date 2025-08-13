@@ -409,3 +409,10 @@ This will use a snapshot of the legacy frontend preserved in the [ComfyUI Legacy
 ### Which GPU should I buy for this?
 
 [See this page for some recommendations](https://github.com/comfyanonymous/ComfyUI/wiki/Which-GPU-should-I-buy-for-ComfyUI)
+
+---
+
+# 关于这个版本/About this version
+
+我修改了requirements.txt，使它能够更加适配colab的环境。  
+I have modified the requirements.txt file to better suit the Colab environment.
