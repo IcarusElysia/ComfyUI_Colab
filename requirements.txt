@@ -5,6 +5,7 @@ torch==2.6.0+cu118
 torchsde
 torchvision==0.21.0+cu118
 torchaudio==2.6.0+cu118
+xformers==0.0.29.post2
 numpy>=1.25.0
 einops
 transformers>=4.37.2
