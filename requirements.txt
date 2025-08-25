@@ -1,10 +1,10 @@
 comfyui-frontend-package==1.25.10
 comfyui-workflow-templates==0.1.65
 comfyui-embedded-docs==0.2.6
-torch
+torch==2.6.0+cu124
 torchsde
-torchvision
-torchaudio
+torchvision==0.21.0+cu124
+torchaudio==2.6.0+cu124
 numpy>=1.25.0
 einops
 transformers>=4.37.2
@@ -21,6 +21,7 @@ psutil
 alembic
 SQLAlchemy
 av>=14.2.0
+xformers==0.0.29.post2
 
 #non essential dependencies:
 kornia>=0.7.1
